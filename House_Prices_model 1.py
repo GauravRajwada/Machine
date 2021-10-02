@@ -6,6 +6,7 @@ Created on Sat Apr 25 17:31:47 2020
 """
 import pandas as pd
 import numpy as np
+import sklearn
 
 df=pd.read_csv("E:/Kaggel compitiion/House Prices Advanced Regression Techniques/After analizing/train.csv")
 df1=pd.read_csv("E:/Kaggel compitiion/House Prices Advanced Regression Techniques/After analizing/test.csv")
